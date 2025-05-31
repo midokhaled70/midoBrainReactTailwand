@@ -1,6 +1,3 @@
-Here’s a professional **README description** for your **GitHub repository**:  
-
----
 
 # **MidoBrainwave - Modern UI/UX Website**  
 
@@ -23,4 +20,3 @@ This project demonstrates **best practices** in modern web development by blendi
 
 ---
 
-Let me know if you need any refinements! 🚀
