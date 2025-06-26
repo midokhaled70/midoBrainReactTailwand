@@ -27,7 +27,7 @@
 🎨 **Styling:** Tailwind CSS for clean and scalable designs  
 📌 **Animations:** Parallax effects and smooth transitions  
 ## **Author**
-**MId Khaled**
+**ahmed Khaled**
 This project demonstrates **best practices** in modern web development by blending **performance, aesthetics, and usability** into an engaging digital experience.  
 
 ---
